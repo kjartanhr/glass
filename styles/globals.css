@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 html {
-  @apply bg-[#161819] text-white;
-  font-family: 'Source Sans Pro', sans-serif;
+  @apply bg-gray-900 text-white;
+  font-family: 'Inter', sans-serif;
   color-scheme: dark;
 }
 .term {
